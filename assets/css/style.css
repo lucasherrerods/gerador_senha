@@ -128,3 +128,9 @@ body {
 .hide {
     display: none !important;
 }
+
+@media screen and (max-width: 550px) {
+    body {
+        width: 80%;
+    }
+}
